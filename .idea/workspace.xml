@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b98ed5df-f3cf-406d-95b7-7f9e0ec04eef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Queue/src/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/src/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b98ed5df-f3cf-406d-95b7-7f9e0ec04eef" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Queue/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="368">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -236,12 +233,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574110647651</updated>
-      <workItem from="1574110650122" duration="14760000" />
+      <workItem from="1574110650122" duration="15039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14760000" />
+    <option name="totallyTimeSpent" value="15039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -461,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Queue/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="368">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
