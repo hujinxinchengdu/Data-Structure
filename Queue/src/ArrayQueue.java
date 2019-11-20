@@ -42,7 +42,7 @@ public class ArrayQueue<E> implements Queue<E> {
     @Override
     public String toString() {
         StringBuilder res = new StringBuilder();
-        res.append("Stack: ");
+        res.append("Queue: ");
         res.append("front [");
         for(int i = 0; i < array.getSize(); i++){
             res.append(array.get(i));
