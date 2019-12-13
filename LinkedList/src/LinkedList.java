@@ -128,6 +128,33 @@ public class LinkedList<E> {
         return false;
     }
 
+    public E remove(int index){
+        if(index < 0 || index > size){
+            throw new IllegalArgumentException("Remove failed. Illegal index");
+        }
+
+        Node prev = dummyhead;
+        for(int i = 0; i < index; i++){
+            prev = prev.next;
+        }
+
+        Node retNode = prev.next;
+        prev.next = retNode.next;
+        retNode.next = null;
+        size--;
+
+        return retNode.e;
+    }
+
+    public E removeFirst(){
+        return remove(0);
+    }
+
+    public E removeLast(){
+        return remove(size - 1);
+    }
+
+
     @Override
     public String toString(){
         StringBuilder res = new StringBuilder();
@@ -143,5 +170,7 @@ public class LinkedList<E> {
         res.append("NULL");
         return res.toString();
     }
+
+
 
 }

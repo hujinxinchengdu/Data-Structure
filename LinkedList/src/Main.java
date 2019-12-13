@@ -9,6 +9,14 @@ public class Main {
         Linkedlist.add(2, 666);
         System.out.println(Linkedlist);
 
+        Linkedlist.remove(2);
+        System.out.println(Linkedlist);
+
+        Linkedlist.removeFirst();
+        System.out.println(Linkedlist);
+
+        Linkedlist.removeLast();
+        System.out.println(Linkedlist);
 
     }
 }
